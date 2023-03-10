@@ -6,7 +6,7 @@
 
   <h2 align="center">Todo app solution</h2>
   <p align="center">
-    <a href="(https://www.frontendmentor.io/challenges/todo-app-Su1_KokOW"><strong>Frontend Mentor Challenge</strong></a>
+    <a href="(https://www.frontendmentor.io/challenges/todo-app-Mesho254"><strong>Frontend Mentor Challenge</strong></a>
     <br />
   </p>
 </div>
@@ -19,7 +19,7 @@
 
 </div>
 
-This is a solution to the [Todo app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/todo-app-Su1_KokOW). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Todo app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/todo-app-mesho254). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 <h2 align="center"></h2>
 
@@ -68,9 +68,9 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@Domiha](//https://www.frontendmentor.io/profile/Dom-iha)
-- Github - [Taqib](https://github.com/Mesho254)
-- Twitter - [@_Mihaq](https://www.twitter.com/@dimeshak)
+- Frontend Mentor - [@Mesho254](//https://www.frontendmentor.io/profile/Mesho254)
+- Github - [Mesho254](https://github.com/Mesho254)
+- Twitter - [@dimeshak](https://www.twitter.com/@dimeshak)
 
 ### Useful resources
 
