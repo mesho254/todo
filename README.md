@@ -23,7 +23,7 @@ This is a solution to the [Todo app challenge on Frontend Mentor](https://www.fr
 
 <h2 align="center"></h2>
 
-- Live Site URL: [URL](https://todo-tau-sable.vercel.app/) 
+- Live Site URL: [URL](todo-mesho254.vercel.app) 
 
 <br>
 
@@ -69,8 +69,8 @@ Users should be able to:
 ## Author
 
 - Frontend Mentor - [@Domiha](//https://www.frontendmentor.io/profile/Dom-iha)
-- Github - [Taqib](https://github.com/Dom-iha)
-- Twitter - [@_Mihaq](https://www.twitter.com/_Mihaq)
+- Github - [Taqib](https://github.com/Mesho254)
+- Twitter - [@_Mihaq](https://www.twitter.com/@dimeshak)
 
 ### Useful resources
 
